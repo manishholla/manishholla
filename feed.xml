@@ -3,10 +3,30 @@
     <title>Manish Holla</title>
     <link href="https://manishholla.github.io/manishholla/feed.xml" rel="self" />
     <link href="https://manishholla.github.io/manishholla" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2020-04-27T14:49:41+05:30</updated>
     <author>
         <name>Manish</name>
     </author>
     <id>https://manishholla.github.io/manishholla</id>
 
+    <entry>
+        <title>hello world</title>
+        <author>
+            <name>Manish</name>
+        </author>
+        <link href="https://manishholla.github.io/manishholla/hello-world.html"/>
+        <id>https://manishholla.github.io/manishholla/hello-world.html</id>
+
+        <updated>2020-04-27T14:49:34+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Not john doe but manish holla 😁
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Not john doe but manish holla 😁</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
