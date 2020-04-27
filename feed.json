@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Manish Holla",
+    "description": "",
+    "home_page_url": "https://manishholla.github.io/manishholla",
+    "feed_url": "https://manishholla.github.io/manishholla/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Manish"
+    },
+    "items": [
+    ]
+}
